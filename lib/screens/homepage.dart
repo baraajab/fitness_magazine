@@ -53,7 +53,7 @@ class HomePage extends StatelessWidget {
 
         imageUrl: 'assets/icons/png/fagr.jpg',
         category: 'صحة',
-        color: Color(0xFfB4cf66),
+        color: Color(0xFF79bde8),
       ),
       HealthMagazine(
         title: 'فوائد زيت الزنجبيل للشعر',
@@ -62,7 +62,7 @@ class HomePage extends StatelessWidget {
 
         imageUrl: 'assets/icons/png/zang.jpg',
         category: 'جمال',
-        color: Color(0xFfB4cf66),
+        color: Color(0xFFf05e8e),
       ),
       HealthMagazine(
         title: 'تمارين الكارديو وحدها لا تساعد في فقدان الوزن ',
@@ -71,7 +71,7 @@ class HomePage extends StatelessWidget {
 
         imageUrl: 'assets/icons/png/kardeo.jpg',
         category: 'لياقة',
-        color: Color(0xFfB4cf66),
+        color: Color(0xFFfccd0a),
       ),
     ];
 
